@@ -9,6 +9,9 @@ pip install -r requirements.txt
 
 ### Development
 ```
+# Prepare database
+python script.py
+
 # Run server on http://localhost:5000/
 python server.py
 
